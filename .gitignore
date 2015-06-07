@@ -32,3 +32,5 @@ DerivedData
 
 # djinni output directories
 djinni-output-temp/
+Makefile~
+local.properties
